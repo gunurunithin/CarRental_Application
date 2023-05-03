@@ -1,0 +1,48 @@
+#rectext{
+    font-weight: bold;
+    font-size: 30px;
+    padding-top: 40px;
+    /* font-family:  */
+    font-style: oblique;
+    color: rgb(0, 0, 0);
+  }
+  #rec2{
+    width: 56%;
+    height: 450px;
+    display: block;
+    overflow-x: scroll;
+    overflow-y: scroll;
+    white-space: nowrap;
+  }
+  th{
+    background-color: #284664;
+    padding: 8px;
+    text-align: left;
+    font-weight: bold;
+    border-bottom: 2px solid #000000;
+    border-right: 2px solid #000000;
+  }
+  td {
+    background-color: white;
+    padding: 8px;
+    text-align: left;
+    font-weight: bold;
+    border-bottom: 2px solid #000000;
+    border-right: 2px solid #000000;
+  }
+  
+  #trhov:hover {
+    background-color: rgb(58, 134, 196);
+    transition: 500ms;
+    color: black;
+    font-size: 15px;
+    font-weight: bold;
+  
+  }
+  #trhe{
+  background-color: #284664;
+  color: white;
+  }
+  #rec{
+    height: 100vh;
+  }

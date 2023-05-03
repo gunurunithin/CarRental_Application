@@ -1,0 +1,26 @@
+.singlecarmain {
+  margin-top: 69px;
+  padding: 40px;
+}
+body {
+  background-color: slategrey;
+}
+
+.checked {
+  color: orange;
+}
+span {
+  background-color: white;
+  color: white;
+}
+
+.input-group {
+  bottom: 1px;
+  left: 0px;
+  height: 10px;
+  margin-top: 1vh;
+  width: 80vh;
+}
+.IN {
+  width: 100%;
+}
